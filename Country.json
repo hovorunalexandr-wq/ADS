@@ -3,7 +3,7 @@ json
   "version": "1.0.0",
   "update_required": false,
   "country": [
-    { "idGPS": "Ukraine", "idIP": "UA", "URL": 0.5 },
+    { "idGPS": "Ukraine", "idIP": "UA", "URL": "0.5" }
     
   ]
 }
