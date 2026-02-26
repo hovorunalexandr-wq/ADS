@@ -4,6 +4,5 @@ json
   "update_required": false,
   "country": [
     { "idGPS": "Ukraine", "idIP": "UA", "URL": "0.5" }
-    
   ]
 }
